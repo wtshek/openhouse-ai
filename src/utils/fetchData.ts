@@ -2,7 +2,7 @@ import communitiesData from "@/mock/communities";
 import homesData from "@/mock/homes";
 import { Community, Home, TransformedCommunity } from "@/utils/types";
 
-const baseURL = "https://storage.googleapis.com/openhouse-ai-fe-coding-test";
+// const baseURL = "https://storage.googleapis.com/openhouse-ai-fe-coding-test";
 
 const calculateAverageHomePricePerCommunity = (
   communities: Community[],
